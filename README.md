@@ -6,7 +6,7 @@ Lazy:
 
 ```lua
 {
-    'lpturmel/discord.nvim',
+    'justbarnt/discord.nvim',
     config = function()
         local discord = require('discord')
 
